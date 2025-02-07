@@ -66,6 +66,22 @@ The project creates NFTs & meme coins for each video, allowing for multiple reve
 - 🚧 DEX liquidity pools for meme coins
 - 🚧 Community leaderboard for engagement rewards
 
+## 🔗 Related Repositories
+
+This project consists of multiple components working together:
+
+### 🎬 AI Video Generator
+
+- **Repository:** [ai-video-generator](https://github.com/reymom/ai-video-generator)
+- **Description:** This is the **video generation engine** that powers Obfuscated Cat Agent.
+- **Functionality:**
+  - Generates AI-powered images & videos
+  - Uses **Stable Diffusion** for image generation
+  - Integrates **AI voice synthesis** for narration
+  - Compiles video with background music (Jamendo API)
+
+⚡ **The AI Video Generator is responsible for generating all multimedia assets used in our viral meme automation pipeline.**
+
 ## **🚀 How to Run (Step-by-Step Testing)**
 
 ### 1️. Install Dependencies
