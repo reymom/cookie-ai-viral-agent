@@ -3,8 +3,8 @@
 solana/.env
 backend/.env
 
-# Ignore YouTube & Twitter Secrets
-uploader/config.json
+# Ignore YouTube & Twitter Secret
+backend/uploader/config.json
 
 # Ignore Python virtual environment
 venv/
