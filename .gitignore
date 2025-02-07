@@ -1,0 +1,38 @@
+# Ignore environment variables
+.env
+solana/.env
+backend/.env
+
+# Ignore YouTube & Twitter Secrets
+uploader/config.json
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore compiled Python files
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore cache and temporary files
+.cache/
+.idea/
+.vscode/
+
+# Ignore generated data
+backend/data/
+solana/metadata/
+dumb.rdp
+
+# Ignore Node.js dependencies
+solana/node_modules/
