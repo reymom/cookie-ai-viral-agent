@@ -1,5 +1,7 @@
 # 🎬 Obfuscated Cat Agent - Viral Meme Video Generator 🚀
 
+🐦 **Twitter:** [@ObfuscatedCat](https://twitter.com/ObfuscatedCat)
+
 🔹 An AI-powered system that generates viral meme videos, mints Solana NFTs & meme coins, and distributes them based on engagement.
 
 ## 📌 Overview
@@ -13,10 +15,14 @@ Obfuscated Cat AI is an autonomous agent that:
 
 🛠 Built for the Cookie DeFAI Hackathon, leveraging AI-driven content creation & crypto tokenomics.
 
-## 📜 **Full Tokenomics Model & AI Reputation System**
+## 📜 **Documentation**
 
-🔗 Read the full **token economy breakdown & engagement-based token model** in:  
-📄 **[TOKENOMICS.md](./docs/TOKENOMICS.md)**
+🔗 Read the full **token economy breakdown & engagement-based token model** in:
+**📄 [TOKENOMICS.md](./docs/TOKENOMICS.md)**
+
+**📂 [Hackathon Presentation (PDF)](./docs/Obfuscated_Cat_Presentation.pdf)** – Slide deck explaining the AI + Web3 concept.
+
+**🔩 [Installation Guide](./docs/installation.md)** – Step-by-step setup instructions.
 
 ## 📜 Monetization Strategy 💰
 
