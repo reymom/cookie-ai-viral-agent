@@ -13,6 +13,11 @@ Obfuscated Cat AI is an autonomous agent that:
 
 🛠 Built for the Cookie DeFAI Hackathon, leveraging AI-driven content creation & crypto tokenomics.
 
+## 📜 **Full Tokenomics Model & AI Reputation System**
+
+🔗 Read the full **token economy breakdown & engagement-based token model** in:  
+📄 **[TOKENOMICS.md](./docs/TOKENOMICS.md)**
+
 ## 📜 Monetization Strategy 💰
 
 The project creates NFTs & meme coins for each video, allowing for multiple revenue streams:
@@ -81,6 +86,12 @@ This project consists of multiple components working together:
   - Compiles video with background music (Jamendo API)
 
 ⚡ **The AI Video Generator is responsible for generating all multimedia assets used in our viral meme automation pipeline.**
+
+## 🏗 Architecture & Workflow
+
+Below is an overview of how AI-driven meme videos integrate with Solana tokenomics.
+
+![AI Meme Video & Solana Pipeline](./docs/AI_Meme_Video_Generation_Phases.png)
 
 ## **🚀 How to Run (Step-by-Step Testing)**
 
